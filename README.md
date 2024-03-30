@@ -1,2 +1,4 @@
 # mi-primer-repo
-mi primer repo  ajajaja 
+
+## descripción
+Este es mi primer repositorio :) 
