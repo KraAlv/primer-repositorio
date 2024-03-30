@@ -27,3 +27,5 @@ print(f"La lista es \n{len(lista)}")
 #solo se le da el parámetro tope
 # for j in range(len(lista)):
 #     print(lista[j])
+nombre = "Alvin Santiago Martinez Flores"
+print(nombre)
